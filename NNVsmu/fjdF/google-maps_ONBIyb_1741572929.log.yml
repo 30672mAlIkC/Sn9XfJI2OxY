@@ -1,6 +1,5 @@
 image: java:8
 
-before_script:
   - which java
   - which javac
 
