@@ -82,7 +82,6 @@
                     <name>idea.version</name>
                 </property>
             </activation>
-
             <dependencies>
                 <dependency>
                     <groupId>org.apache.flink</groupId>
