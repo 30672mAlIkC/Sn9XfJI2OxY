@@ -159,7 +159,6 @@ The following changes effect the SPI classes, for users who are extending Failsa
 
 ### Improvements
 
-- Issue #47 - All policies and policy config classes are now threadsafe. Policy builders are not threadsafe.
 - Issue #201 - Thread safety is clearly documented in policy, policy config, and policy builder classes.
 - Issue #292 - Created an extensible Policy SPI.
 - Issue #254 - Added an explicit `compose` method to `FailsafeExecutor`.
